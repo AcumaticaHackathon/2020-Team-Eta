@@ -1,0 +1,2 @@
+C:\Users\brend\source\repos\HelloWorldWindowsIoT\HelloWorldWindowsIoT\HelloWorldWindowsIoT.csproj;x86
+C:\Users\brend\source\repos\HelloWorldWindowsIoT\Sensors.Dht\Sensors.Dht.vcxproj;x86

@@ -1,0 +1,2 @@
+MainPackage=C:\Users\brend\source\repos\HelloWorldWindowsIoT\HelloWorldWindowsIoT\bin\x64\Debug\HelloWorldWindowsIoT_1.1.0.0_x64_Debug.appx
+SymbolPackage=C:\Users\brend\source\repos\HelloWorldWindowsIoT\HelloWorldWindowsIoT\obj\x64\Debug\Symbols\HelloWorldWindowsIoT_1.1.0.0_x64_Debug.appxsym
